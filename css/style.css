@@ -1,0 +1,7 @@
+.fondoCabecera{
+    background-image: url('../Multimedia/banner.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-bottom: 0px;
+}
